@@ -1,6 +1,6 @@
 # simple-python-pyinstaller-app
 
-This repository is for building a Python Application in Jenkins
+This repository is for building a Python Application in Jenkinsss
 
 The repository contains a simple Python application which is a command line tool "add2vals" that outputs the addition of two values. If at least one of the
 values is a string, "add2vals" treats both values as a string and instead
